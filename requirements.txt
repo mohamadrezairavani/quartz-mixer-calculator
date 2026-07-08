@@ -1,0 +1,10 @@
+# Quartz Mixer Calculator Requirements
+# پروژه محاسبه‌گر میکسر کوارتز - وابستگی‌ها
+
+# این پروژه تنها از کتابخانه‌های استاندارد Python استفاده می‌کند
+# No external dependencies required
+
+# اختیاری برای توسعه و تست:
+# pytest>=7.0
+# black>=22.0
+# pylint>=2.15.0
